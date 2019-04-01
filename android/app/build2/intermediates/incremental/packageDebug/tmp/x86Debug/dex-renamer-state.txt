@@ -1,0 +1,4 @@
+#Sun Mar 31 23:41:29 ICT 2019
+base.0=C\:\\react\\sml220319\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+path.0=classes.dex

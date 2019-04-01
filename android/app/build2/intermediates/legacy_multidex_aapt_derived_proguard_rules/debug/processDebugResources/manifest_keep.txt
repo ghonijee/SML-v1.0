@@ -1,0 +1,4 @@
+# Referenced at C:\react\sml220319\android\app\build\intermediates\merged_manifests\debug\universal\AndroidManifest.xml:18
+-keep class android.support.v4.app.CoreComponentFactory { <init>(); }
+# Referenced at C:\react\sml220319\android\app\build\intermediates\merged_manifests\debug\universal\AndroidManifest.xml:18
+-keep class com.sml220319.MainApplication { <init>(); }
