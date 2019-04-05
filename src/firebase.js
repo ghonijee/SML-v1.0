@@ -2,12 +2,12 @@
 import Firebase from 'firebase'
 
 const config = {
-  apiKey: "AIzaSyBVlstHuTtJ1WMQKhSGGpNvp3OEjL-GsOs",
-  authDomain: "solomobilelearning.firebaseapp.com",
-  databaseURL: "https://solomobilelearning.firebaseio.com",
-  projectId: "solomobilelearning",
-  storageBucket: "solomobilelearning.appspot.com",
-  messagingSenderId: "1097040946073"
+  apiKey: "",
+  authDomain: "",
+  databaseURL: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: ""
 };
 
 const app =Firebase.initializeApp(config);
